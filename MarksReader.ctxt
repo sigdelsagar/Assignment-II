@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=MarksReader
+comment1.params=firstName\ lastName\ id\ a1\ a2\ a3
+comment1.target=MarksReader(java.lang.String,\ java.lang.String,\ int,\ double,\ double,\ double)
+comment10.params=list\ size
+comment10.target=void\ arrayData(java.util.List,\ int)
+comment11.params=list
+comment11.target=void\ printArray(MarksReader[])
+comment2.params=
+comment2.target=double\ getTotal()
+comment3.params=
+comment3.target=java.lang.String\ getUnitName()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=java.lang.String\ toRawString()
+comment6.params=m1\ m2
+comment6.target=int\ compare(MarksReader,\ MarksReader)
+comment7.params=m1\ m2
+comment7.target=int\ compare(MarksReader,\ MarksReader)
+comment8.params=
+comment8.target=java.util.List\ fileReader()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=12
